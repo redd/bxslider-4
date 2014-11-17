@@ -1,0 +1,13 @@
+{
+	"name": "stevenwanderski/bxslider-4",
+	"description": "The fully-loaded, responsive jQuery content slider",
+	"keywords": ["bxslider", "javascript", "jquery", "library"],
+	"homepage": "http://bxslider.com",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Steven Wanderski",
+			"homepage": "http://stevenwanderski.com"
+		}
+	]
+}
